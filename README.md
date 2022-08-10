@@ -1,22 +1,22 @@
 ### ✨ Hi there, I'm Carolina Calixto ✨
 
-<div>
-<a href="https://beacons.ai/calixtocarolina">
-<img height="180em" src"https://github-readme-stats.vercel.app/api?username-calixtocarolina&show_icons-true&theme-vue&include_all_commits-true&count_private-true"/>
-<img height="180em" src"https://github-readme-stats.vercel.app/api/top-langs/?username-calixtocarolina&layout-compact&langs_count-16&theme-vue"/>
+<div align="center">
+  <a href="https://github.com/calixtocarolina">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=calixtocarolina&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calixtocarolina&layout=compact&langs_count=7&theme=vue"/>
 </div>
   
 ##
   
- <div style="display: inline block">
-<img align="center" alt="Carol-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />   
- <img align="center" alt="Carol-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="center" alt="Carol-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="center" alt="Carol-KOTLIN" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg" />   
-<img align="center" alt="Carol-ANDROID" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-plain.svg" />
-<img align="center" alt="Carol-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-<img align="right" alt="Carol-GIF" src="https://cdn.discordapp.com/attachments/869389801843990528/1005603102621188177/ezgif.com-gif-maker.gif"
-  </div>    
+<div style="display: inline_block"><br>
+<img align="center" alt="Carol-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">   
+ <img align="center" alt="Carol-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
+<img align="center" alt="Carol-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Carol-KOTLIN" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg">   
+<img align="center" alt="Carol-ANDROID" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-plain.svg">
+<img align="center" alt="Carol-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+<img align="right" alt="Carol-GIF" height="150" width="150" src="https://cdn.discordapp.com/attachments/869389801843990528/1007037415678025788/download20220805214418.png">
+</div> 
   
   ##
   
