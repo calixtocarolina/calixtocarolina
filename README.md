@@ -15,7 +15,7 @@
 <img align="center" alt="Carol-KOTLIN" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg">   
 <img align="center" alt="Carol-ANDROID" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-plain.svg">
 <img align="center" alt="Carol-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
-<img align="right" alt="Carol-GIF" height="150" width="150" src="https://cdn.discordapp.com/attachments/869389801843990528/1007037415678025788/download20220805214418.png">
+<img align="right" alt="Carol-GIF" height="150" width="150" src="https://cdn.discordapp.com/attachments/869389801843990528/1007803779380420688/download20220805200921.png">
 </div> 
   
   ##
